@@ -1,7 +1,9 @@
 ﻿function Home() {
 	return <div>
-		<h1>Página inicial</h1>
-		<h3 align="center">Acesse <a href="https://paradoxofinal.com.br">Paradoxo Final</a> para mais conteúdo.</h3>
+			<h1 align="center">
+				<p>Artigos de tecnologia, dicas, músicas<br></br>e tudo mais que for importante.</p>
+				<p>Acesse <a href="https://paradoxofinal.com.br">Paradoxo Final</a> para mais conteúdo.</p>
+			</h1>
 		</div>
 }
 
